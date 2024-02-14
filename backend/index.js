@@ -30,7 +30,7 @@ const server = app.listen(process.env.PORT, () =>
 );
 const io = socket(server, {
   cors: {
-    origin: '[https://chat-webchat.netlify.app],[http://localhost:3000]',
+    origin: '*',
     credentials: true
   },
 });
