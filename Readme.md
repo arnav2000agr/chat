@@ -1,4 +1,4 @@
-Hosted Link : 
+Hosted Link : https://chat-webchat.netlify.app/
 
 Alternatively to run this project locally:
 
@@ -14,7 +14,7 @@ For Frontend:
 1. cd frontend
 2. npm install
 3. npm run dev
-4. site will be live on http://localhost:5173/
+4. site will be live on localhost.
 
 
 
